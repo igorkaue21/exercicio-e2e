@@ -1,0 +1,26 @@
+[
+    {
+      "nomeProduto": "Abominable Hoodie",
+      "tamanho": "S",
+      "cor": "Red",
+      "quantidade": 1
+    },
+    {
+      "nomeProduto": "Oslo Trek Hoodie",
+      "tamanho": "XS",
+      "cor": "Brown",
+      "quantidade": 1
+    },
+    {
+      "nomeProduto": "Mach Street Sweatshirt",
+      "tamanho": "M",
+      "cor": "Blue",
+      "quantidade": 1
+    },
+    {
+      "nomeProduto": "Aero Daily Fitness Tee",
+      "tamanho": "L",
+      "cor": "Black",
+      "quantidade": 1
+    }
+]
