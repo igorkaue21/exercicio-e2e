@@ -38,6 +38,8 @@ context('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
     cy.get('.checkout-button').click()
     cy.get('#terms').click()
     cy.get('#place_order').click()
+    cy.wait(4000)
+    cy.get('#main').should('contain','Obrigado. Seu pedido foi recebido.')
   });
 
 
